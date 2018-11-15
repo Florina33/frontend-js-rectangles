@@ -11,7 +11,7 @@
 		"neutrino": "8.3.0",
 		"@neutrinojs/node": "8.3.0",
 		"@neutrinojs/banner": "8.3.0",
-		"@atomspace/eslint": "2.2.0",
+		"@atomspace/eslint": "2.1.1",
 		"@neutrinojs/jest": "8.3.0",
 		"@neutrinojs/clean": "8.3.0",
 		"source-map-support": "~0.5.9"
